@@ -20,8 +20,17 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0035-search-insert-position) |
+| [0217-contains-duplicate](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0035-search-insert-position) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
