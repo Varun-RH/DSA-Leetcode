@@ -49,6 +49,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0258-add-digits) |
 ## Simulation
 |  |
@@ -62,4 +63,12 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0219-contains-duplicate-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
