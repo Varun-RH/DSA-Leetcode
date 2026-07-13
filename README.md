@@ -39,6 +39,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0704-binary-search) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Varun-RH/DSA-Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Binary Search
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 | [0070-climbing-stairs](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0258-add-digits) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Varun-RH/DSA-Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Varun-RH/DSA-Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Simulation
 |  |
 | ------- |
