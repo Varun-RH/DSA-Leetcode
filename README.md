@@ -9,6 +9,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0344-reverse-string) |
@@ -64,6 +65,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0912-sort-an-array](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0912-sort-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Varun-RH/DSA-Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -106,6 +108,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -114,6 +117,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -130,6 +134,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
