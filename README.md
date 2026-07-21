@@ -41,6 +41,7 @@
 | [0035-search-insert-position](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0283-move-zeroes) |
@@ -59,6 +60,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1748-sum-of-unique-elements](https://github.com/Varun-RH/DSA-Leetcode/tree/master/1748-sum-of-unique-elements) |
@@ -67,6 +69,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0912-sort-an-array](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0912-sort-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Varun-RH/DSA-Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -105,11 +108,13 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0169-majority-element) |
 | [1748-sum-of-unique-elements](https://github.com/Varun-RH/DSA-Leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
