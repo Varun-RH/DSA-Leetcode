@@ -44,6 +44,7 @@
 | [0169-majority-element](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0912-sort-an-array) |
@@ -55,6 +56,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0704-binary-search) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Varun-RH/DSA-Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
@@ -63,6 +65,7 @@
 | [0169-majority-element](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0268-missing-number) |
 | [1748-sum-of-unique-elements](https://github.com/Varun-RH/DSA-Leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Sorting
 |  |
@@ -71,6 +74,7 @@
 | [0148-sort-list](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0912-sort-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Varun-RH/DSA-Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Math
@@ -79,6 +83,7 @@
 | [0069-sqrtx](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0268-missing-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Varun-RH/DSA-Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Varun-RH/DSA-Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Simulation
@@ -154,4 +159,5 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
