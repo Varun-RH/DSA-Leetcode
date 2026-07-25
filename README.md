@@ -14,6 +14,7 @@
 | [0234-palindrome-linked-list](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0917-reverse-only-letters](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -49,6 +50,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -62,6 +64,7 @@
 | [0069-sqrtx](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0704-binary-search) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Varun-RH/DSA-Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
@@ -71,6 +74,7 @@
 | [0217-contains-duplicate](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1748-sum-of-unique-elements](https://github.com/Varun-RH/DSA-Leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Sorting
 |  |
@@ -80,6 +84,7 @@
 | [0169-majority-element](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0912-sort-an-array](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Varun-RH/DSA-Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
