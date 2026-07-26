@@ -97,6 +97,7 @@
 | [0268-missing-number](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0268-missing-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Varun-RH/DSA-Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Varun-RH/DSA-Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Varun-RH/DSA-Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Simulation
 |  |
 | ------- |
