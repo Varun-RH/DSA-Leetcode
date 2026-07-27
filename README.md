@@ -55,6 +55,7 @@
 | [0912-sort-an-array](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Varun-RH/DSA-Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Varun-RH/DSA-Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/Varun-RH/DSA-Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Varun-RH/DSA-Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
@@ -75,6 +76,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Varun-RH/DSA-Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/Varun-RH/DSA-Leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Sorting
 |  |
@@ -126,6 +128,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0169-majority-element) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Varun-RH/DSA-Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/Varun-RH/DSA-Leetcode/tree/master/1748-sum-of-unique-elements) |
 ## Divide and Conquer
 |  |
