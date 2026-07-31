@@ -32,6 +32,7 @@
 | [0709-to-lower-case](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0709-to-lower-case) |
 | [0917-reverse-only-letters](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0917-reverse-only-letters) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Varun-RH/DSA-Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Varun-RH/DSA-Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String Matching
 |  |
 | ------- |
@@ -82,6 +83,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Varun-RH/DSA-Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1748-sum-of-unique-elements](https://github.com/Varun-RH/DSA-Leetcode/tree/master/1748-sum-of-unique-elements) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Varun-RH/DSA-Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sorting
 |  |
 | ------- |
