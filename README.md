@@ -173,6 +173,7 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0148-sort-list) |
+| [0206-reverse-linked-list](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
@@ -181,6 +182,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Bit Manipulation
 |  |
