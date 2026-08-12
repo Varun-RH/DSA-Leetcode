@@ -121,6 +121,7 @@
 | [0268-missing-number](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0268-missing-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Varun-RH/DSA-Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Varun-RH/DSA-Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2427-number-of-common-factors](https://github.com/Varun-RH/DSA-Leetcode/tree/master/2427-number-of-common-factors) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Varun-RH/DSA-Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Simulation
 |  |
@@ -130,6 +131,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0258-add-digits) |
+| [2427-number-of-common-factors](https://github.com/Varun-RH/DSA-Leetcode/tree/master/2427-number-of-common-factors) |
 ## Sliding Window
 |  |
 | ------- |
@@ -206,4 +208,16 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Varun-RH/DSA-Leetcode/tree/master/0141-linked-list-cycle) |
+## Enumeration
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Varun-RH/DSA-Leetcode/tree/master/2427-number-of-common-factors) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Varun-RH/DSA-Leetcode/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/Varun-RH/DSA-Leetcode/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
